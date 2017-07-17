@@ -33,6 +33,12 @@
 		<h2>Elevator Pitch</h2>
 		<p>I believe that we are unique, with unique bodies, thoughts, feelings and identities. People go to great lengths to celebrate their individuality. Is your company actively pursuing this market?</p>
 		<br/>
+		<h2>My Learning Style</h2>
+		<p><strong>Visual</strong></p>
+		<p>30% Auditory</p>
+		<p>40% Visual</p>
+		<p>30% Tactile</p>
+		<br/>
 		<br/>
 
 		<p>My bootcamp buddy is Dannielle Bojorquez.</p>
