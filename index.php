@@ -31,6 +31,16 @@
 		</ol>
 		<br/>
 		<h2>Elevator Pitch</h2>
+		<p>Version 2</p>
+		<p>I believe that we are unique, with unique bodies, thoughts, feelings and identities.
+
+			We go to great lengths to celebrate their individuality.
+
+			I help companies increase profits by automating the personalization of products.
+
+			Is your company actively pursuing this market?
+		</p>
+		<br/>
 		<p>I believe that we are unique, with unique bodies, thoughts, feelings and identities.
 			People go to great lengths to celebrate their individuality.
 			I help companies profit from new mass-customization technologies.
