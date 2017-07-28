@@ -72,7 +72,9 @@
 			<li><a href="https://docs.google.com/document/d/1oBMsjKm9sPmYy4qXyV1c-DC2NrNFQWeUO2dltQlY9pc/edit?usp=sharing">Marty's Resume</a></li>
 		</ul>
 		<br/>
-
+		<p>Searching "Marty Bonacci" on Google will produce 8 of 8 results on the first page for current and recent positive activities in Marty's life.</p>
+		<br/>
+		<p>A Google search for my coding buddy, Dannielle, produced only her facebook page.</p>
 
 	</body>
 </html>
