@@ -59,8 +59,22 @@
 		<p>30% Tactile</p>
 		<br/>
 		<br/>
-
 		<p>My bootcamp buddy is Dannielle Bojorquez.</p>
+		<br/>
+		<h2>Important Links</h2>
+		<ul>
+			<li><a href="https://www.linkedin.com/in/marty-bonacci-76125bb7/">Marty's Linkedin</a></li>
+			<li>https://www.facebook.com/martybonacci</li>
+			<li>https://www.facebook.com/CustomCultSnowboards/</li>
+			<li>https://www.facebook.com/nativeleather/</li>
+			<li>http://nativeleather.com/</li>
+			<li>https://customcultsnowboards.com</li>
+			<li>https://docs.google.com/document/d/1oBMsjKm9sPmYy4qXyV1c-DC2NrNFQWeUO2dltQlY9pc/edit?usp=sharing</li>
+			<li>http://nativeleather.com/</li>
+			<li>https://customcultsnowboards.com</li>
+		</ul>
+		<br/>
+
 
 	</body>
 </html>
