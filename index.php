@@ -66,7 +66,7 @@
 			<li><a href="https://www.facebook.com/nativeleather/">Native Leather's Facebook</a></li>
 			<li><a href="http://nativeleather.com/">NativeLeather.com</a></li>
 			<li><a href="https://customcultsnowboards.com">CustomCult.com</a></li>
-			<li><a href="https://docs.google.com/document/d/1oBMsjKm9sPmYy4qXyV1c-DC2NrNFQWeUO2dltQlY9pc/edit?usp=sharing">Marty's Resume</a></li>
+			<li><a href="images/Resume Marty Bonacci .pdf">Marty's Resume</a></li>
 		</ul>
 		<br/>
 		<p>Searching "Marty Bonacci" on Google will produce 8 of 8 results on the first page for current and recent positive activities in Marty's life.</p>
