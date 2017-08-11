@@ -3,11 +3,11 @@
 	<head>
 		<meta charset="utf-8">
 		<meta name="author" content="Marty Bonacci">
-		<meta name="description" content="Personal Development">
-		<title>Personal Development</title>
+		<meta name="description" content="Professional Development">
+		<title>Professional Development</title>
 	</head>
 	<body>
-		<h1>Marty Bonacci's Personal Development</h1>
+		<h1>Marty Bonacci's Professional Development</h1>
 		<br/>
 		<h2>Quantitative Accomplishments</h2>
 		<ul>
@@ -58,9 +58,6 @@
 		<p>40% Visual</p>
 		<p>30% Tactile</p>
 		<br/>
-		<br/>
-		<p>My bootcamp buddy is Dannielle Bojorquez.</p>
-		<br/>
 		<h2>Important Links</h2>
 		<ul>
 			<li><a href="https://www.linkedin.com/in/marty-bonacci-76125bb7/">Marty's Linkedin</a></li>
@@ -74,7 +71,19 @@
 		<br/>
 		<p>Searching "Marty Bonacci" on Google will produce 8 of 8 results on the first page for current and recent positive activities in Marty's life.</p>
 		<br/>
+		<h2>Coding Buddy Stuff</h2>
+		<br/>
+		<p>My bootcamp buddy is Dannielle Bojorquez.</p>
+		<br/>
 		<p>A Google search for my coding buddy, Dannielle, produced only her facebook page.</p>
-
+		<br/>
+		<h2>Interview Results</h2>
+		<p>My coding buddy interviewed me and asked the following questions and heard the following answers from me:</p>
+		<p>Q: What are internal and external factors keeping you from achieving your goal?</p>
+		<p>A: My internal blocks revolve around managing my focus and attention. My family obligations are unavoidable and unpredictable.</p>
+		<p>Q: How do you personally create value for others?</p>
+		<p>A: I'm able to build manufacturing systems on a shoestring (or with nothing more than stone knives and bearskins).</p>
+		<p>Q: Has anyone ever told you that you got potential professionally? Do you believe it? Why, Why not?</p>
+		<p>A: Yes, I believe it because my nickname is MacGyver.</p>
 	</body>
 </html>
